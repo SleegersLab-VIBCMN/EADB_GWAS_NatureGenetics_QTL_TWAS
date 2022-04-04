@@ -1,5 +1,5 @@
 # EADB GWAS - QTL/TWAS Analyses and Related Data
-QTL/TWAS analyses of the manuscript "New insights into the genetic etiology of Alzheimer’s disease and related dementias" by Bellenguez, Küçükali, et al. Nature Genetics 2022.
+QTL/TWAS analyses and related data of the manuscript "New insights into the genetic etiology of Alzheimer’s disease and related dementias" by Bellenguez, Küçükali, et al. Nature Genetics 2022.
 
 Publication link: https://www.nature.com/articles/s41588-022-01024-z
 

@@ -17,5 +17,5 @@ The significant sQTLs mapped and sTWAS functional reference panel weights genera
 
 ### Nanopore cDNA sequencing experiment for _TSPAN14_ splicing
 
-Anonymized aligned reads of the amplicon-based long-read nanopore cDNA sequencing experiment conducted for the _TSPAN14_ splicing analysis are available through ENA (https://www.ebi.ac.uk/ena/browser/home) under accession PRJEB49234.
+Anonymized aligned reads of the amplicon-based long-read nanopore cDNA sequencing experiment conducted for the _TSPAN14_ splicing analysis are available through ENA under accession PRJEB49234 (https://www.ebi.ac.uk/ena/browser/view/PRJEB49234).
 
